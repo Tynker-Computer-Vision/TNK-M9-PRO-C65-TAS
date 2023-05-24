@@ -3,7 +3,7 @@ import numpy as np
 import cv2
 
 # Define the input and output paths
-inputPath = 'static/lion.jpg'
+inputPath = 'static/lion.png'
 
 # Load the color image
 orignalImage = cv2.imread(inputPath)
